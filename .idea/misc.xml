@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/HP/AndroidStudioProjects/FinanceTracker/app/src/main/res/drawable/edit_text_background.xml" value="0.2125" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/FinanceTracker/app/src/main/res/layout/activity_homepage.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/FinanceTracker/app/src/main/res/drawable/edit_text_bg.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/FinanceTracker/app/src/main/res/layout/activity_add_transaction.xml" value="0.24210526315789474" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/FinanceTracker/app/src/main/res/layout/activity_homepage.xml" value="0.2" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FinanceTracker/app/src/main/res/layout/activity_main.xml" value="0.18640444634459172" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FinanceTracker/app/src/main/res/layout/activity_sign_up.xml" value="0.27447916666666666" />
       </map>
