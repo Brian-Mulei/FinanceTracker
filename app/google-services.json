@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718014912029",
+    "project_id": "finance-tracker-d84fb",
+    "storage_bucket": "finance-tracker-d84fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718014912029:android:6da28a5a86ec099a2098f4",
+        "android_client_info": {
+          "package_name": "com.mulei.financetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718014912029-lnggbkccicu09v18ujl6n2ah5v4tfbfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcn1f0sshzHVKY2FXbRsMalF50H9ypzkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718014912029-lnggbkccicu09v18ujl6n2ah5v4tfbfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
